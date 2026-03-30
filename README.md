@@ -30,7 +30,7 @@ ollama pull llama3.2
 
 3. GLaDOS TTS Module
 This project requires the neural voice engine. Clone it from the original repository and copy the glados folder into your project root:
-git clone https://github.com
+git clone https://github.com/nimaid/GLaDOS-TTS.git
 cp -r GLaDOS-TTS/glados ./
 
 4. Python Packages
