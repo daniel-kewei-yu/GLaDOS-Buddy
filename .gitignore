@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.spec
+venv/
+env/
+.env
+
+# PyInstaller output
+*.exe
+*.manifest
+*.log
+
+# Large TTS models (must be obtained separately)
+glados/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
